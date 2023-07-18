@@ -1,6 +1,10 @@
 # DPF_export_XLSX
 How to convert JSON to XLS in Python
 
+## Tech
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
+[![PDFminer](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://pypi.org/project/pdfminer//)
+
 ## Description
 DPF_export_XLSX - application that, when launched, we can scan a PDF file and parse the data into jsion. The program then converts the jsion file into a xlsx file.
 
@@ -8,7 +12,7 @@ DPF_export_XLSX - application that, when launched, we can scan a PDF file and pa
 
 #### 1. Clone a repository
 ```bash
-git clone git@github.com:Strannik1922/DPF_export_XLSX.git
+git clone https://github.com/Strannik1922/DPF_export_XLSX.git
 ```
 #### 2. Create and activate a virtual environment.
 Command for Windows:
@@ -28,3 +32,6 @@ python -m pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
+
+## Python function
+[main.py](https://github.com/Strannik1922/DPF_export_XLSX/blob/main/main.py)

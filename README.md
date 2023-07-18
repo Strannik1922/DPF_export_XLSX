@@ -6,7 +6,7 @@ How to convert JSON to XLS in Python
 [![PDFminer](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://pypi.org/project/pdfminer//)
 
 ## Description
-DPF_export_XLSX - application that, when launched, we can scan a PDF file and parse the data into jsion. The program then converts the jsion file into a xlsx file.
+DPF_export_XLSX - application that, when launched, we can scan a PDF file and parse the data into json. The program then converts the json file into a xlsx file.
 
 ## Installation and Usage Instructions on Windows
 

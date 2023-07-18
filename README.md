@@ -2,7 +2,7 @@
 How to convert JSON to XLS in Python
 
 ## Description
-DPF_export_XLSX - application that, when launched, we can scan a PDF file and parse the data into jsion. The program then converts the jsion file into a xlsx file.
+DPF_export_XLSX - application that, when launched, we can scan a PDF file and parse the data into json. The program then converts the json file into a xlsx file.
 
 ## Installation and Usage Instructions on Windows
 
